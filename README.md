@@ -3,4 +3,5 @@
 
 ## SQL
 * **MySql - ยังไม่เสร็จ**
+* **PostgreSQL - ยังไม่เสร็จ**
 ## NOSQL
